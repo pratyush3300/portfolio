@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0c7fbeaf.css",
+    "main.js": "/portfolio/static/js/main.82eabe60.js",
+    "static/media/IMG_20230304_204714.jpg": "/portfolio/static/media/IMG_20230304_204714.7453a5c1e20f01a2e9f7.jpg",
+    "static/media/designs5.png": "/portfolio/static/media/designs5.a03ee5ad872e09e28c54.png",
+    "static/media/designs1.png": "/portfolio/static/media/designs1.54303f3e6aada85948b3.png",
+    "static/media/designs3.png": "/portfolio/static/media/designs3.afedd27c6f3da2f4d3bb.png",
+    "static/media/JAVA.jpg": "/portfolio/static/media/JAVA.f178f44849c8f02c58a4.jpg",
+    "static/media/htmlandcss logo.png": "/portfolio/static/media/htmlandcss logo.d534c869e063bbb65422.png",
+    "static/media/uiuxdesign.jpg": "/portfolio/static/media/uiuxdesign.7e227678e8c1feebdb89.jpg",
+    "static/media/JavaScript-logo.png": "/portfolio/static/media/JavaScript-logo.a689fa28c2263f012d11.png",
+    "static/media/CLang.jpg": "/portfolio/static/media/CLang.3c566db6ff9c7e8bb9bc.jpg",
+    "static/media/REACT logo.png": "/portfolio/static/media/REACT logo.c2a6ac864c4ccb52e12e.png",
+    "static/media/insta logo.avif": "/portfolio/static/media/insta logo.c1c50376cb1d0ffa121d.avif",
+    "index.html": "/portfolio/index.html",
+    "main.0c7fbeaf.css.map": "/portfolio/static/css/main.0c7fbeaf.css.map",
+    "main.82eabe60.js.map": "/portfolio/static/js/main.82eabe60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c7fbeaf.css",
+    "static/js/main.82eabe60.js"
+  ]
+}
