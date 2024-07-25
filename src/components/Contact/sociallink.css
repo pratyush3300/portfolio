@@ -1,0 +1,21 @@
+.socialLink{
+    margin-top: 1rem;
+    margin-left:27rem;
+    /* border: 2px solid black; */
+    width: 20rem;
+    margin-bottom: 2rem;
+}
+
+.socialicons{
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-left:3rem;
+    border-radius: 5rem;
+}
+
+.socialicons:hover{
+    width: 2.6rem;
+    height: 2.6rem;
+    margin-left:3rem;
+    border-radius: 5rem;
+}
