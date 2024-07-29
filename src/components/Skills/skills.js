@@ -7,6 +7,7 @@ import JAVA from 'C:\\Users\\KIIT\\Pratyush-Portfolio-React\\src\\assets\\JAVA.j
 import HTMLCSS from 'C:\\Users\\KIIT\\Pratyush-Portfolio-React\\src\\assets\\htmlandcss logo.png';
 import JavaScript from 'C:\\Users\\KIIT\\Pratyush-Portfolio-React\\src\\assets\\JavaScript-logo.png';
 import REACT from 'C:\\Users\\KIIT\\Pratyush-Portfolio-React\\src\\assets\\REACT logo.png';
+import REACT from 'C:\\Users\\KIIT\\Pratyush-Portfolio-React\\src\\assets\\Bootstrap.jpg';
 
 
 const Skills = () => {
