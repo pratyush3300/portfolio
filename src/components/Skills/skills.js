@@ -45,6 +45,12 @@ const Skills = () => {
                         <h2>JavaScript</h2>
                         </div>
                     </div>
+                 <div className="skillsBar" id="webskill">
+                    <img src={Bootstrap} alt="Bootstrap" className="skillBarImg"/>
+                    <div className="uiskillText">
+                        <h2>Bootstrap/h2>
+                    </div>
+                </div>
                     <div className="skillsBar" id="webskill">
                     <img src={REACT} alt="REACT" className="webskillImg" id="webimg" />
                     <div className="webskillText">
